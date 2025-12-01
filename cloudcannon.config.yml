@@ -5,7 +5,7 @@ collections_config:
   astro_testing_site_src_pages:
     path: astro-testing-site/src/pages
     icon: connecting_airports
-    disable_url: true
+    disable_url: false
     disable_add: false
     disable_add_folder: false
     disable_file_actions: false
